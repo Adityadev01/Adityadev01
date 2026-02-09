@@ -13,7 +13,8 @@ I'm an aspiring python developer focused on building intelligent systems using P
 - Git & GitHub
 - Basics of AI / ML
 
-## 📌 Goals
+## 📌 Goals 
+- to be a part of gsoc 2026 and contribute to orgs 
 - Build 5 solid projects in next 60 days
 - Become job / freelance ready
 
